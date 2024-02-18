@@ -1,4 +1,5 @@
 
+Estos son los identificadores de formato que necesito recodificar:
 
 | Identificador | Tipo                            |
 |---------------|---------------------------------|
