@@ -57,6 +57,6 @@ Por otro lado, `ft_printf()` es la interfaz principal para imprimir cadenas de c
 
 Es importante destacar que estas funciones utilizan otras funciones auxiliares, como `ft_putchar()`, `ft_putstr()`, `ft_putnbr()`, `ft_putunbr()` y `hexa_re()` para manejar diferentes tipos de formatos.
 
-En resumen, estas funciones proporcionan una manera efectiva y eficiente de imprimir valores formateados en C, lo que resulta útil en aplicaciones de consola y programas donde la presentación de la información es esencial. También se proporciona un conjunto de pruebas para verificar su funcionamiento. Puedes encontrar las pruebas [aquí][(https://github.com/ELIESSR/printf/blob/master/main.c)].
+En resumen, estas funciones proporcionan una manera efectiva y eficiente de imprimir valores formateados en C, lo que resulta útil en aplicaciones de consola y programas donde la presentación de la información es esencial. También se proporciona un conjunto de pruebas para verificar su funcionamiento. Puedes encontrar las pruebas [aquí][((https://github.com/ELIESSR/printf/blob/master/main.c))].
 
 Este proyecto presenta una excelente oportunidad para explorar y comprender las funciones variádicas en C, al mismo tiempo que fomenta la creación de un código bien estructurado y fácilmente extensible.
