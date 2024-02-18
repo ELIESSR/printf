@@ -1,4 +1,6 @@
-
+Introducción
+---
+La versatilidad de la función printf en C representa un gran ejercicio de programación para nosotros. Este proyecto tiene una dificultad moderada y te permitirá descubrir las funciones variádicas en C. La clave para un ft_printf exitoso es un código bien estructurado y fácilmente extensible.
 
 En primer lugar, debemos entender el subject y las banderas de printf. Para ello, es esencial comprender los identificadores de formato y las banderas asociadas con la función printf en C. Estos identificadores y banderas nos permiten controlar el formato y la presentación de la salida de printf de manera precisa.
 
