@@ -55,11 +55,11 @@ Continuando con el análisis de las funciones que utilicé para llevar a cabo el
 
 Estas funciones simplifican la función `printf()` en C, ofreciendo una manera más eficiente de imprimir valores formateados en la salida estándar según un formato predefinido.
 
-`format_specifier()` interpreta los especificadores de formato en una cadena y realiza las operaciones necesarias para imprimir el valor correspondiente. Por ejemplo, `%d` imprime un número entero, `%s` imprime una cadena de caracteres, etc. Esta función es utilizada internamente por `ft_printf()` para manejar los especificadores de formato.
+[`format_specifier()`][formato] interpreta los especificadores de formato en una cadena y realiza las operaciones necesarias para imprimir el valor correspondiente. Por ejemplo, [`%d`][formato] imprime un número entero, [`%s`][formato] imprime una cadena de caracteres, etc. Esta función es utilizada internamente por [`ft_printf()`][printf] para manejar los especificadores de formato.
 
-Por otro lado, `ft_printf()` es la interfaz principal para imprimir cadenas de caracteres formateadas. Recibe una cadena de formato y los datos a imprimir, identifica los especificadores (marcados por `%`) y llama a `format_specifier()` para imprimir el valor correspondiente.
+Por otro lado, [`ft_printf()`][printf] es la interfaz principal para imprimir cadenas de caracteres formateadas. Recibe una cadena de formato y los datos a imprimir, identifica los especificadores (marcados por `%`) y llama a [`format_specifier()`][printf] para imprimir el valor correspondiente.
 
-Es importante destacar que estas funciones utilizan otras funciones auxiliares, como `ft_putchar()`, `ft_putstr()`, `ft_putnbr()`, `ft_putunbr()` y `hexa_re()` para manejar diferentes tipos de formatos.
+Es importante destacar que estas funciones utilizan otras funciones auxiliares, como [`ft_putchar()`][formato], [`ft_putstr()`][formato], [`ft_putnbr()`][formato], [`ft_putunbr()`][formato] y [`hexa_re()`][formato] para manejar diferentes tipos de formatos.
 
 En resumen, estas funciones proporcionan una manera efectiva y eficiente de imprimir valores formateados en C, lo que resulta útil en aplicaciones de consola y programas donde la presentación de la información es esencial. También se proporciona un conjunto de pruebas para verificar su funcionamiento. Puedes encontrar las pruebas [aquí][main].
 
