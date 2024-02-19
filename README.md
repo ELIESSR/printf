@@ -1,6 +1,6 @@
 <span style="font-size: larger;">Printf</span>
 ---
-<span style="font-size: smaller;">Introducción</span>
+##Introducción
 ---
 La versatilidad de la función printf en C representa un gran ejercicio de programación para nosotros. Este proyecto tiene una dificultad moderada y te permitirá descubrir las funciones variádicas en C. La clave para un ft_printf exitoso es un código bien estructurado y fácilmente extensible.
 
