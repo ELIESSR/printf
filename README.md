@@ -1,6 +1,7 @@
 Printf
 ---
 **Introducción**
+
 La versatilidad de la función printf en C representa un gran ejercicio de programación para nosotros. Este proyecto tiene una dificultad moderada y te permitirá descubrir las funciones variádicas en C. La clave para un ft_printf exitoso es un código bien estructurado y fácilmente extensible.
 
 La función printf() es una función de salida de formato en C y otros lenguajes de programación que admite una amplia variedad de opciones de formateo para imprimir datos en la consola o en otros flujos de salida. Es una función de la biblioteca estándar de C, que se encuentra en la cabecera <stdio.h>.La función printf() es una función de salida de formato en C y otros lenguajes de programación que admite una amplia variedad de opciones de formateo para imprimir datos en la consola o en otros flujos de salida. Es una función de la biblioteca estándar de C, que se encuentra en la cabecera <stdio.h>.
@@ -11,6 +12,7 @@ En primer lugar, debemos entender el subject y las banderas de printf. Para ello
 
 
 **Identificadores de Formato**
+
 Los identificadores de formato son caracteres especiales que indican a la función printf qué tipo de dato se va a imprimir y cómo debe formatearse. Aquí tienes una lista de los identificadores de formato comunes que necesitamos recodificar:
 
 | Identificador | Tipo                            |
