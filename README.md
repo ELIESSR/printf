@@ -11,7 +11,7 @@ En primer lugar, debemos entender el subject y las banderas de printf. Para ello
 ---
 
 
-## Identificadores de Formato
+## Identificadores de Formato 󠀥🖊️
 
 Los identificadores de formato son caracteres especiales que indican a la función printf qué tipo de dato se va a imprimir y cómo debe formatearse. Aquí tienes una lista de los identificadores de formato comunes que necesitamos recodificar:
 
@@ -32,7 +32,7 @@ Estos identificadores determinan cómo se formateará y mostrará cada tipo de d
 
 ---
 
-## Indicadores de Flags🚩
+## Indicadores de Flags 🚩
 
 Los indicadores de flags son caracteres adicionales que se pueden usar junto con los identificadores de formato para controlar aspectos específicos del formato de salida. Aquí tienes una lista de los indicadores de flags comunes que necesitamos entender:
 
